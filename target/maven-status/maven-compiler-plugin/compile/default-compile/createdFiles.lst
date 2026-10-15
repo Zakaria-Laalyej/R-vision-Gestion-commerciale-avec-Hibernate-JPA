@@ -1,0 +1,12 @@
+org\example\service\CrudService.class
+org\example\dao\ProduitDAO.class
+org\example\entities\Produit.class
+org\example\entities\Fournisseur.class
+org\example\entities\CommandeProduitPK.class
+org\example\entities\Commande.class
+org\example\entities\CommandeProduit.class
+org\example\dao\GenericDAO.class
+org\example\entities\User.class
+org\example\App.class
+org\example\entities\Client.class
+org\example\entities\Categorie.class
